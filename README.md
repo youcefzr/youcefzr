@@ -27,10 +27,6 @@
         <ellipse cx="207.5" cy="120" rx="22" ry="10" fill="#FFF7B2" opacity="0.9"/>
       </g>
     </g>
-    <text x="208" y="390" text-anchor="middle" font-size="28" fill="#7C5CFC" font-family="monospace" opacity="0.9">
-      
-      <animate attributeName="y" values="390;370;390" keyTimes="0;0.5;1" dur="1s" repeatCount="indefinite"/>
-    </text>
   </svg>
 </p>
 
