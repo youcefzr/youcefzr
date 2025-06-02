@@ -28,7 +28,7 @@
       </g>
     </g>
     <text x="208" y="390" text-anchor="middle" font-size="28" fill="#7C5CFC" font-family="monospace" opacity="0.9">
-      Vite 💃
+      
       <animate attributeName="y" values="390;370;390" keyTimes="0;0.5;1" dur="1s" repeatCount="indefinite"/>
     </text>
   </svg>
